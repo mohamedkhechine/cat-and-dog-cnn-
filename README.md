@@ -35,3 +35,4 @@ The model reaches around 97% accuracy on validation data.
 - `app.py` — the Streamlit app
 - `cat_dog_training.ipynb` — the training notebook (Colab)
 - `cat_dog_model.keras` — the trained model
+LIVE URL:https://kurucxdcf5wjmtwrwhfhgf.streamlit.app/
